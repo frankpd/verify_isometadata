@@ -1,0 +1,7 @@
+*** Errors with nycgdb_colleges2013_test_export.xml: *** 
+
+PROBLEM - THIS REQUIRED ELEMENT IS MISSING: gmd:contact/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:city/gco:CharacterString.
+
+PROBLEM - A REQUIRED TEXT VALUE IS MISSING FOR: gmd:contact/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:postalCode/gco:CharacterString.
+
+

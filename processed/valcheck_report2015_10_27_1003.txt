@@ -1,0 +1,223 @@
+*** 110 Values checked for nycgdb_colleges2013_test_export.xml: *** 
+
+Tag CharacterString in :fileIdentifier checked for value AA4B9423-91FF-402D-B901-3BB51CE1FC8F.
+
+Tag LanguageCode in :language checked for value eng.
+
+Tag MD_CharacterSetCode in :characterSet checked for value utf8.
+
+Tag MD_ScopeCode in :hierarchyLevel checked for value dataset.
+
+Tag CharacterString in :organisationName checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :positionName checked for value Geospatial Data Librarian.
+
+Tag CharacterString in :deliveryPoint checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :deliveryPoint checked for value 151 E 25th St Box H-0520.
+
+Tag CharacterString in :administrativeArea checked for value NY.
+
+Tag Country in :country checked for value US.
+
+Tag CI_RoleCode in :role checked for value pointOfContact.
+
+Tag Date in :dateStamp checked for value 2014-10-15.
+
+Tag CharacterString in :metadataStandardName checked for value NAP - Metadata.
+
+Tag CharacterString in :metadataStandardVersion checked for value 1.2.
+
+Tag CharacterString in :dataSetURI checked for value http://www.baruch.cuny.edu/geoportal/nyc_gdb/.
+
+Tag MD_TopologyLevelCode in :topologyLevel checked for value geometryOnly.
+
+Tag MD_GeometricObjectTypeCode in :geometricObjectType checked for value point.
+
+Tag Integer in :geometricObjectCount checked for value 123.
+
+Tag CharacterString in :code checked for value 0.
+
+Tag CharacterString in :codeSpace checked for value EPSG.
+
+Tag CharacterString in :version checked for value 8.5.
+
+Tag CharacterString in :title checked for value Colleges and universities, New York NY, 2013.
+
+Tag Date in :date checked for value 2014-07-15.
+
+Tag CI_DateTypeCode in :dateType checked for value publication.
+
+Tag CharacterString in :edition checked for value july2014.
+
+Tag CharacterString in :organisationName checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :positionName checked for value Geospatial Data Librarian.
+
+Tag CharacterString in :deliveryPoint checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :deliveryPoint checked for value 151 E 25th St Box H-0520.
+
+Tag CharacterString in :city checked for value New York.
+
+Tag CharacterString in :administrativeArea checked for value NY.
+
+Tag CharacterString in :postalCode checked for value 10010.
+
+Tag Country in :country checked for value US.
+
+Tag CI_RoleCode in :role checked for value pointOfContact.
+
+Tag CI_PresentationFormCode in :presentationFor checked for value mapDigital.
+
+Tag CharacterString in :abstract checked for value This point layer is an extract of NYC's Selected Facilities and Program Sites database that has been converted to a spatial layer. The data was taken "as is" and was not verified for accuracy or omissions. It includes all facilities coded as colleges (factypes 1201 through 1204). The capacity field is the number of full and part time students enrolled for the fall semester as reported by the NYS Dept of Education. The unique ID is id, a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City..
+
+Tag CharacterString in :purpose checked for value This dataset is intended for researchers, policy makers, students, and educators for basic geographic analysis and thematic mapping purposes. It is appropriate for thematic and reference mapping at a city and county (borough) level and for thematic mapping at a sub-county (borough) level. .
+
+Tag MD_ProgressCode in :status checked for value completed.
+
+Tag CharacterString in :organisationName checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :positionName checked for value Geospatial Data Librarian.
+
+Tag CharacterString in :deliveryPoint checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :deliveryPoint checked for value 151 E 25th St Box H-0520.
+
+Tag CharacterString in :city checked for value New York.
+
+Tag CharacterString in :administrativeArea checked for value NY.
+
+Tag CharacterString in :postalCode checked for value 10010.
+
+Tag Country in :country checked for value US.
+
+Tag CI_RoleCode in :role checked for value pointOfContact.
+
+Tag MD_MaintenanceFrequencyCode in :maintenanceAndUpdateFrequency checked for value annually.
+
+Tag CharacterString in :keywor checked for value Bronx County, 36005, Kings County, 36047, New York County, 36081, Queens County, 36081, Richmond County, 36085.
+
+Tag CharacterString in :keywor checked for value City of New York, 2395220, Borough of Bronx, 978756, Borough of Brooklyn, 978759, Borough of Manhattan, 979190, Borough of Queens, 979404, Borough of Staten Island, 979522.
+
+Tag CharacterString in :keywor checked for value 2013.
+
+Tag CharacterString in :keywor checked for value Universities and colleges, Public universities and colleges, Private universities and colleges, Technical institutes, Community colleges.
+
+Tag CharacterString in :keywor checked for value Downloadable Data.
+
+Tag MD_KeywordTypeCode in :type checked for value place.
+
+Tag MD_KeywordTypeCode in :type checked for value place.
+
+Tag MD_KeywordTypeCode in :type checked for value temporal.
+
+Tag MD_KeywordTypeCode in :type checked for value theme.
+
+Tag CharacterString in :title checked for value US Census ANSI / FIPS.
+
+Tag CharacterString in :title checked for value Geographic Names Information Service (GNIS).
+
+Tag CharacterString in :title checked for value Library of Congress Subject Headings (LCSH).
+
+Tag Date in :date checked for value 2009-01-01.
+
+Tag Date in :date checked for value 2008-01-01.
+
+Tag Date in :date checked for value 2014-07-21.
+
+Tag CI_DateTypeCode in :dateType checked for value publication.
+
+Tag CI_DateTypeCode in :dateType checked for value publication.
+
+Tag CI_DateTypeCode in :dateType checked for value publication.
+
+Tag CharacterString in :useLimitation checked for value Disclaimer: Every effort was made to insure that the data, which was compiled from public sources, was processed accurately for inclusion in the NYC Geodatabase. The creator, Baruch College, and CUNY disclaim any liability for errors, inaccuracies, or omissions that may be contained therein or for any damages that may arise from the foregoing. Users should independently verify the accuracy of the data for their purposes.The data is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike license CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0. You are free to share and to adapt the work as long as you cite the source, do not use it for commercial purposes, and release adaptations under the same license..
+
+Tag CharacterString in :useLimitation checked for value Although this data is being distributed by Baruch College CUNY, no warranty expressed or implied is made by the College or University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the College or University in the use of this data, or related materials.
+
+Tag MD_RestrictionCode in :accessConstraints checked for value licenseUnrestricted.
+
+Tag MD_RestrictionCode in :useConstraints checked for value license.
+
+Tag MD_SpatialRepresentationTypeCode in :spatialRepresentationType checked for value vector.
+
+Tag LanguageCode in :language checked for value eng.
+
+Tag MD_CharacterSetCode in :characterSet checked for value utf8.
+
+Tag MD_TopicCategoryCode in :topicCategory checked for value society.
+
+Tag MD_TopicCategoryCode in :topicCategory checked for value structure.
+
+Tag CharacterString in :environmentDescription checked for value Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.0.3348.
+
+Tag CharacterString in :description checked for value City of New York.
+
+Tag Boolean in :extentTypeCode checked for value true.
+
+Tag Decimal in :westBoundLongitude checked for value -74.180391.
+
+Tag Decimal in :eastBoundLongitude checked for value -73.75659.
+
+Tag Decimal in :southBoundLatitude checked for value 40.57812.
+
+Tag Decimal in :northBoundLatitude checked for value 40.913327.
+
+Tag beginPosition in l:TimePerio checked for value 2013-01-01T00:00:00.
+
+Tag endPosition in l:TimePerio checked for value 2013-12-31T00:00:00.
+
+Tag CharacterString in :name checked for value Shapefile.
+
+Tag CharacterString in :organisationName checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :positionName checked for value Geospatial Data Librarian.
+
+Tag CharacterString in :deliveryPoint checked for value Newman Library, Baruch CUNY.
+
+Tag CharacterString in :deliveryPoint checked for value 151 E 25th St Box H-0520.
+
+Tag CharacterString in :city checked for value New York.
+
+Tag CharacterString in :administrativeArea checked for value NY.
+
+Tag CharacterString in :postalCode checked for value 10010.
+
+Tag Country in :country checked for value US.
+
+Tag CI_RoleCode in :role checked for value pointOfContact.
+
+Tag Real in :transferSize checked for value 0.003.
+
+Tag MD_ScopeCode in :level checked for value dataset.
+
+Tag CharacterString in :statement checked for value This point layer is an extract from the NYC's Selected Facilities and Program Sites MS Access database from 2013 that has been converted to a spatial layer using the xcoord and yccord fields, which are in NAD83 NY State Plane Long Island (ft-us).The data was taken "as is" and was not verified for accuracy or omissions. It includes all facilities coded as colleges (factypes 1201 through 1204 - an associated facnames coulmn indicates what the factypes are). Some of the columns were renamed and others were omitted from this extract. The unique ID is id, a field created by the City. This layer was created as part of the NYC Geodatabase (NYC GDB) project, a resource designed for basic geographic analysis and thematic mapping within the five boroughs of New York City. .
+
+Tag CharacterString in :description checked for value NYC Department of City Planning, Bytes of the Big Apple, Selected Facilities and Program Sites database - release 2013..
+
+Tag CharacterString in :description checked for value Baruch CUNY, NYC Geodatabase (nyc_gdb), version july2014..
+
+Tag CharacterString in :title checked for value Selected Facilities and Program Sites -  release 2013.
+
+Tag CharacterString in :title checked for value NYC Geodatabase july2014.
+
+Tag Date in :date checked for value 2014-03-21.
+
+Tag Date in :date checked for value 2014-07-15.
+
+Tag CI_DateTypeCode in :dateType checked for value publication.
+
+Tag CI_DateTypeCode in :dateType checked for value publication.
+
+Tag CharacterString in :useLimitation checked for value Metadata for this layer is licensed under a Creative Commons Attribution-NonCommercial license CC BY-NC http://creativecommons.org/licenses/by-nc/3.0. You are free to share and to adapt the metadata as long as you cite the source and do not use it for commercial purposes..
+
+Tag MD_RestrictionCode in :accessConstraints checked for value licenseUnrestricted.
+
+Tag MD_RestrictionCode in :useConstraints checked for value license.
+
+Tag MD_MaintenanceFrequencyCode in :maintenanceAndUpdateFrequency checked for value annually.
+
+Tag CharacterString in :maintenanceNote checked for value This metadata record was originally created by Frank Donnelly in Oct 2014..
+
+
