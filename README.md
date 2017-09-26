@@ -4,7 +4,6 @@
 Frank Donnelly, Geospatial Data Librarian, Baruch College CUNY
 Released under Creative Commons Attribution-Non Commercial-ShareAlike License 4.0 International
 http://creativecommons.org/licenses/by-nc-sa/4.0/
-Last updated Oct 26, 2015
 
 Disclaimer:
 
